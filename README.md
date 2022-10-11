@@ -1,5 +1,5 @@
 Hello, my name is Franco, I am a junior full-stack developer.
-I am finishing my studies at the BootCamp "Soy Henry" +700hs
+I am finished my studies at the BootCamp "Soy Henry" +700hs
 where I learned to improve my skills in
 React, Redux, CSS, TypeScript, MySQL, Express, Sequalize.
 I also have a little experience in figma.
