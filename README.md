@@ -5,3 +5,5 @@ JavaScript, React, Redux, CSS, Boostrap, TypeScript, MySQL, Express, Sequalize, 
 I also have a little experience in figma.
 At this moment I am looking for a job, so I have a lot of availability and energy to learn and continue improving my skills.
 Thanks for visiting my profile I hope we get in touch
+Fselvarolo28@gmail.com
+
