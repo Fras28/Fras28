@@ -52,8 +52,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Fras28/Fras28/output/snake.svg" alt="Snake animation" />
-
-###
